@@ -110,4 +110,4 @@ Vision
 AI Cofounder aims to reduce the gap between startup ideas and execution by enabling intelligent AI agents to collaborate like a real startup team.
 ________________________________________
 License
-This project was developed for hackathon and educational purpose.
+This project was developed for hackathon and educational purposes.
