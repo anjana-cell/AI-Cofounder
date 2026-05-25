@@ -86,3 +86,8 @@ credentials.json
 
 # AI Generated Cache
 cache/
+# Next.js
+.next/
+
+# Vercel
+.vercel/
